@@ -1,0 +1,6 @@
+{
+  "name": "Advanced RAG Workbench & Lab",
+  "description": "Production-grade Advanced RAG pipeline workbench featuring hybrid search (BM25 + Dense vector), cross-encoder reranking, metadata filtering, HyDE & multi-query expansion, and retrieval experiment benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
